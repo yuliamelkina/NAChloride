@@ -4,6 +4,6 @@ target "NAChloride" do
 end
 
 target "NAChloride iOS" do
-  platform :ios, "7.0"
+  platform :ios, "12.0"
   pod "libsodium"
 end
